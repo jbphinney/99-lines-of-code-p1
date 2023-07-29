@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: gray;
+}
+
+h1 {
+    color: aqua;
+}
+
+.friend,h3 {
+    background-color: blue;
+    text-transform: uppercase;
+}
